@@ -1,0 +1,25 @@
+# Python - Byte-code, virtual environments, and common build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+env/
+venv/        # Your Python virtual environment
+pip-log.txt
+pip-delete-this-arg.txt
+.cache
+.pytest_cache/
+.mypy_cache/
+
+# PyCharm - IDE-specific files and project settings
+.idea/       # PyCharm's project configuration directory
+*.iml
+*.ipr
+*.iws
+*.zip
+
+# Operating System files
+.DS_Store    # macOS
+Thumbs.db    # Windows
