@@ -21,11 +21,10 @@ This is a classic Snake game built using Python's `turtle` graphics module. Guid
 ## ⚙️ How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/Python-Snake-Game.git](https://github.com/YOUR_GITHUB_USERNAME/Python-Snake-Game.git)
+    git clone [https://github.com/Rohan-2604/Python-Snake-Game.git](https://github.com/Rohan-2604/Python-Snake-Game.git)
     cd Python-Snake-Game
     ```
-    *(Replace `YOUR_GITHUB_USERNAME` and `Python-Snake-Game` with your actual username and repository name after you push it.)*
-
+    
 2.  **Create a virtual environment (recommended):**
     ```bash
     python -m venv venv
@@ -66,8 +65,6 @@ This is a classic Snake game built using Python's `turtle` graphics module. Guid
 ## 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit pull requests!
 
-## 👤 Author
-* **[Your Name]** - [Link to your LinkedIn Profile (Optional)] - [Link to your GitHub Profile]
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
